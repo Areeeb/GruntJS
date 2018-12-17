@@ -1,3 +1,8 @@
+## Getting Started
+We have two task runners:
+* GulpJS
+* GruntJS
+
 # Grunt JS:
 It is a task runner which is used for running repetitive tasks which needs to be performed time to time like publishing, unit testing, minification or concatenation of files.
 
@@ -6,17 +11,11 @@ It is a task runner which is used for running repetitive tasks which needs to be
 Before GruntJS, you should have:
 * Node package manager installed. Find it here - [npm](https://www.npmjs.com/)
 
-## Getting Started
-We have two task runners:
-* GulpJS
-* GruntJS
-
-### Before installing GruntJS
 Before installing GruntJS, two files are needed to be created in your project.
 * package.json
 * gruntfile.js.
 
-create package.json file using: 
+create package.json file in your local project using: 
 ```
 npm init
 ```
