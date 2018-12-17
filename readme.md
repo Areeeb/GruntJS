@@ -4,7 +4,7 @@ It is a task runner which is used for running repetitive tasks which needs to be
 ### Prerequisites
 
 Before GruntJS, you should have:
-* Node package manager installed. Find it here - [https://www.npmjs.com/]
+* Node package manager installed. Find it here - [npm]([https://www.npmjs.com/)
 
 ## Getting Started
 We have two task runners:
